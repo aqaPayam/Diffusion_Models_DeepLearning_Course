@@ -2,7 +2,7 @@
 # Diffusion Models - Deep Learning Course
 
 ## Repository Overview
-This repository contains the implementation of **Diffusion Models** as part of a homework assignment for the Deep Learning course at Sharif University, Spring 2024. The notebook demonstrates the training, evaluation, and generation processes involved in working with diffusion-based generative models.
+This repository contains the implementation of **Diffusion Models** as part of a homework assignment for the Deep Learning course at Sharif University. The notebook demonstrates the training, evaluation, and generation processes involved in working with diffusion-based generative models.
 
 Diffusion models are a class of generative models that learn to generate data by modeling the reverse of a diffusion process, transforming simple noise into complex data, such as images. This implementation is focused on generating images through a diffusion-based approach.
 
